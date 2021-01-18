@@ -1,0 +1,17 @@
+Assignment submission by Vinayak Bhosale
+
+1)Initially i started using the jupyter notebook from my local computer it was taking too much of time while cleaning the text,
+so I had to switch to google colab, the data which I had generated from my local jupyter notebook I had upload them in colab
+
+2)after uploading I created a data frame using the data
+
+3)after this I had to clean the text for which I wrote two functions for cleaning "cleaner","no_punc"
+
+4)after this step I onverted the words into vectors because machine learning models throw error when the string data is given as input
+
+5)and later I built a Decision Tree model because this problem was about classification decision tree is good at solving classifiaction
+problems
+
+6)and later the model with X, y variables and got a score of 100%
+
+7)followed the same process for X_test and predicted tags for and saved the docs and predicted tags of X_test in csv file 
